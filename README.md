@@ -6,6 +6,7 @@
 # 一、背景分析与结果展示
 ## 1.1 开发背景
 我是[@马哥python说](https://github.com/mashukui)，一枚10年+程序猿，现全职独立开发。
+<img width="1015" height="184" alt="抖音slogon" src="https://github.com/user-attachments/assets/d7179111-e4ae-458f-86ce-7cee0231e55d" />
 
 抖音是国内极具影响力的短视频社交平台，靠着强互动性和庞大的达人创作者群体，已然成为热点事件发酵、优质内容传播的领域。之前，为了满足大家不同的数据采集需求，我分别独立开发了三款软件：针对评论采集的“[爬抖音搜索评论软件](https://github.com/mashukui/douyin_search_comment_tool)”、专门采集特定达人内容的“[爬抖音博主软件](https://github.com/mashukui/douyin_user_post)”，还有专门转换链接uid的“[抖音转换工具](https://github.com/mashukui/dy_trans_tool)”。
 
@@ -189,7 +190,7 @@ cookie获取说明：
 
 开通入口：https://kjyjf.xetlk.com/s/36ksUh
 
-**方式三：手动，付费后加v（493882434）对接**
+**方式三：手动开通，付费后加v（493882434）对接**
 <img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/69c0d008-6077-420f-b24d-712f58d12fd5" />
 
 ## 4.2 一机一码
